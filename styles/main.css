@@ -1,0 +1,45 @@
+img {
+    width: 200px;
+    height: auto;
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+header, main, footer {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header, footer, footer a {
+    font-family: 'Abril Fatface', cursive;
+    background-color: aliceblue;
+    font-size: 20px;
+}
+
+h2 {
+    padding-bottom: 15px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+h1 {
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+footer {
+    text-align: left;
+    padding: 10px;
+    padding-left: 10px;
+}
+
+ul {
+    margin:0 auto;
+    max-width: 600px;
+    padding-bottom: 30px;
+    list-style: none;
+    font-size: 20px;
+}
+
